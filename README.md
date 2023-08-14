@@ -9,3 +9,9 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
 
 - email : peirettimatteo1@gmail.com :email:
 - linkedin : https://www.linkedin.com/in/matteo-peiretti-956941220/  :iphone:
+
+
+https://readme-jokes.vercel.app/api
+ 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
