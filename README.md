@@ -14,6 +14,6 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
  
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 </div>
