@@ -19,7 +19,7 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
 
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SWMatte&show_icons=true&theme=radical)
 
 
 
