@@ -19,7 +19,7 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
 
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWMatte&hide_progress=true&layout=DonutVertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SWMatte&hide_progress=true&layout=Donut)
 
 
 
