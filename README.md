@@ -15,4 +15,4 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
  
 
  
-<img src="https://readme-jokes.vercel.app/api?bgColor:red" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
