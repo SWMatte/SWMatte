@@ -1,20 +1,10 @@
-### Hi there 👋
+### Hi there 👋 :it:
 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+ <kbd> about me:
+_I have been both a student and a worker at the same time. I graduated in Environmental and Natural Sciences from the University of Turin. I have always had a strong passion for the environment and the IT world. In recent years, I've developed a keen interest in programming, particularly in the Java language. While I'm still a novice, I am highly motivated to enhance my skills. In my profile, you can find some projects I have attempted to work on._
+ </kbd>
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ you can contact me  on :
 
-<!--
-**SWMatte/SWMatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- email : peirettimatteo1@gmail.com :email:
+- linkedin : https://www.linkedin.com/in/matteo-peiretti-956941220/  :iphone:
