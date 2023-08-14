@@ -15,9 +15,8 @@ _I have been both a student and a worker at the same time. I graduated in Enviro
      <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
 
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SWMatte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
 
 
 
